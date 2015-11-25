@@ -1,2 +1,2 @@
 # rapid
-Rapid mobile
+Rapid mobile hybrid application
